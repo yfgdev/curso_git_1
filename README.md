@@ -37,4 +37,7 @@ Pode estar em pasta ou link externo
 
 [google description](https://www.google.com/)
 
+###### Link dentro de imagem
+
+[![Descrição img](link/pasta/img)](https://www.google.com/)
 
