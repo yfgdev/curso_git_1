@@ -28,4 +28,9 @@ _**Negrito com italico**_
 3. segundo
 4. terceiro
 
+##### Adicionando imagens
+Pode estar em pasta ou link externo
+
+![Descrição da imagem](img/link/pasta)
+
 
