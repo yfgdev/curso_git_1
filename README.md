@@ -9,3 +9,14 @@ Repositório para o curso de git...
 **Negrito** -- __Negrito__
 *Italico* - - _Italico_
 _**Negrito com italico**_
+
+### Listas em MD
+
+##### Não ordenadas
+
+* HTML
+* CSS
+* JavaScript
+* PHP
+
+##### Ordenadas
