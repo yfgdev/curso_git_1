@@ -41,3 +41,12 @@ Pode estar em pasta ou link externo
 
 [![Descrição img](link/pasta/img)](https://www.google.com/)
 
+#### Inserindo código
+(Só funciona no GitHub)
+
+```Javascript
+
+function soma (a, b)
+return a + b;
+
+```
