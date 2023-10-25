@@ -20,3 +20,9 @@ _**Negrito com italico**_
 * PHP
 
 ##### Ordenadas
+
+1. primeiro
+2. segundo
+3. terceiro
+
+
