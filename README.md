@@ -50,3 +50,11 @@ function soma (a, b)
 return a + b;
 
 ```
+
+#### Task list
+(Só funciona no GitHub)
+- [x] task 1
+- [ ] -task 2
+- [ ] task 3
+- [x] task 4
+
